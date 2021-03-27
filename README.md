@@ -1,5 +1,22 @@
 # Rotary
 
+![](https://img.shields.io/badge/platform-tvOS%2BiOS%2B-blue)
+![](https://img.shields.io/badge/swift-5.3-blue)
+
+A wheel-like UI control component for choosing options from a menu.
+
+# Demo
+
+Tap the following image to launch [Appetize](https://appetize.io).
+
+<p align="center">
+    <a href="https://appetize.io/app/udgkzhrukbwe3umq7x17h4zpjw?device=iphonex&scale=75&orientation=portrait&osVersion=12.2&deviceColor=black">
+        <img src="https://user-images.githubusercontent.com/51816980/59976306-660b8f00-95ba-11e9-89d6-1862f6ee78da.png" alt="Preview"/>
+    </a>
+</p>
+
+## Usage
+
 ```swift
 import Rotary
 
@@ -32,4 +49,12 @@ wheelControl.styling = RotaryWheelStyling(
 view.addSubview(wheelControl)
 ```
 
-> The closure 'rotationEnded' is called immediately after layout. If you do not want this behaviour, call layout before you assign the closure.
+> The closure 'rotationEnded' is called immediately after layout. If you do not want this behaviour, call layout before assigning the closure.
+
+# Installation
+
+Add to your project as a [Swift Package](https://swift.org/package-manager/) Dependency. [Releases](https://github.com/nashysolutions/Rotary/releases/).
+
+# Acknowledgment 
+
+Heavily influenced by the awesome team over at [raywenderlich.com](https://www.raywenderlich.com/2953-how-to-create-a-rotating-wheel-control-with-uikit).
