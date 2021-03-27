@@ -1,6 +1,6 @@
 # Rotary
 
-![](https://img.shields.io/badge/platform-tvOS%2BiOS%2B-blue)
+![](https://img.shields.io/badge/platform-tvOS%2BiOS-blue)
 ![](https://img.shields.io/badge/swift-5.3-blue)
 
 A wheel-like UI control component for choosing options from a menu.
@@ -53,7 +53,7 @@ view.addSubview(wheelControl)
 
 # Installation
 
-Add to your project as a [Swift Package](https://swift.org/package-manager/) Dependency. [Releases](https://github.com/nashysolutions/Rotary/releases/).
+List this in your `Package.swift` manifest file as a [Swift Package](https://swift.org/package-manager/) dependency. [Releases Page](https://github.com/nashysolutions/Rotary/releases/).
 
 # Acknowledgment 
 
