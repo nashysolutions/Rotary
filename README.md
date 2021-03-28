@@ -7,7 +7,7 @@ A wheel-like UI control component for choosing options from a menu.
 
 # Demo
 
-Tap the following image to launch [Appetize](https://appetize.io).
+Tap the following image to launch [Appetize](https://appetize.io). The source for the demo app is available [here](https://github.com/nashysolutions/RotaryDemo).
 
 <p align="center">
     <a href="https://appetize.io/app/udgkzhrukbwe3umq7x17h4zpjw?device=iphonex&scale=75&orientation=portrait&osVersion=12.2&deviceColor=black">
