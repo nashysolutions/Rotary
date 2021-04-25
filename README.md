@@ -1,4 +1,4 @@
-# Rotary
+# This repository is no longer maintained
 
 ![](https://img.shields.io/badge/platform-tvOS%2BiOS-blue)
 ![](https://img.shields.io/badge/swift-5.3-blue)
